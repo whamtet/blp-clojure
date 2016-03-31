@@ -4,7 +4,7 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.7.0"]
-
+                 [clojure-csv/clojure-csv "2.0.1"]
                  [com.bloomberglabs/blpapi "3.7.1"]
                  ]
     :repositories [["ghost4j" "http://repo.ghost4j.org/maven2/releases"]
